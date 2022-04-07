@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="cv.svg"
+   sodipodi:docname="cv_en.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,14 +27,14 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.63663412"
-     inkscape:cx="375.41186"
-     inkscape:cy="574.11312"
+     inkscape:cx="339.28436"
+     inkscape:cy="591.39149"
      inkscape:window-width="1680"
      inkscape:window-height="987"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
@@ -97,238 +97,253 @@
          x="7.2817211"
          y="27.977648">Desarrollador de Software</tspan></text>
     <g
-       id="g95226"
-       style="fill:#373d48;fill-opacity:1"
-       transform="translate(-1.0583333)">
-      <text
-         xml:space="preserve"
-         style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.37222"
-         y="49.387783"
-         id="text24265"><tspan
-           sodipodi:role="line"
-           id="tspan24263"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+       id="g12300">
+      <g
+         id="g95226"
+         style="fill:#373d48;fill-opacity:1"
+         transform="translate(-1.0583333,-1.5875)">
+        <text
+           xml:space="preserve"
+           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.37222"
-           y="49.387783">Contacto</tspan></text>
-      <path
-         style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 139.89993,51.647268 h 65.61498"
-         id="path31586" />
-    </g>
-    <g
-       id="g95216"
-       transform="translate(-1.0583333,-0.50161667)"
-       style="fill:#373d48;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.46689"
-         y="62.132622"
-         id="text36093"><tspan
-           sodipodi:role="line"
-           id="tspan36091"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           y="49.387783"
+           id="text24265"><tspan
+             sodipodi:role="line"
+             id="tspan24263"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.37222"
+             y="49.387783">Contact</tspan></text>
+        <path
+           style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.89993,51.647268 h 65.61498"
+           id="path31586" />
+      </g>
+      <g
+         id="g95216"
+         transform="translate(-1.0583333,-5.7932854)"
+         style="fill:#373d48;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.46689"
-           y="62.132622">Direccion</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.56755"
-         y="67.728958"
-         id="text38107"><tspan
-           sodipodi:role="line"
-           id="tspan38105"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           y="62.132622"
+           id="text36093"><tspan
+             sodipodi:role="line"
+             id="tspan36091"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.46689"
+             y="62.132622">Address</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.56755"
-           y="67.728958">Mar del plata M11 S3,</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-           x="139.56755"
-           y="73.020622"
-           id="tspan38111">Ciudad de la costa, Canelones</tspan></text>
-    </g>
-    <g
-       id="g95209"
-       transform="translate(-1.0583333,-2.4405972)"
-       style="fill:#373d48;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.73448"
-         y="83.903786"
-         id="text49547"><tspan
-           sodipodi:role="line"
-           id="tspan49545"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           y="67.728958"
+           id="text38107"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.56755"
+             y="67.728958"
+             id="tspan38111">Mar del plata M11 S3, Ciudad de </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.56755"
+             y="73.020622"
+             id="tspan28238">la costa, Canelones, Uruguay</tspan></text>
+      </g>
+      <g
+         id="g95209"
+         transform="translate(-1.0583333,-7.7917787)"
+         style="fill:#373d48;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.73448"
-           y="83.903786">Telefono</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.56755"
-         y="89.953979"
-         id="text54607"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           y="83.903786"
+           id="text49547"><tspan
+             sodipodi:role="line"
+             id="tspan49545"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.73448"
+             y="83.903786">Phone</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.56755"
            y="89.953979"
-           id="tspan54605">+598 99 390 285</tspan></text>
-    </g>
-    <g
-       id="g95203"
-       transform="translate(-1.0583333,-1.443896)"
-       style="fill:#373d48;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.73448"
-         y="99.778801"
-         id="text57085"><tspan
-           sodipodi:role="line"
-           id="tspan57083"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           id="text54607"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.56755"
+             y="89.953979"
+             id="tspan54605">+598 99 390 285</tspan></text>
+      </g>
+      <g
+         id="g95203"
+         transform="translate(-1.0583333,-9.4636637)"
+         style="fill:#373d48;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.73448"
-           y="99.778801">Email</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.56755"
-         y="105.82898"
-         id="text57089"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           y="99.778801"
+           id="text57085"><tspan
+             sodipodi:role="line"
+             id="tspan57083"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.73448"
+             y="99.778801">Email</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.56755"
            y="105.82898"
-           id="tspan57087">Joacocaballero1@gmail.com</tspan></text>
+           id="text57089"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.56755"
+             y="105.82898"
+             id="tspan57087">Joacocaballero1@gmail.com</tspan></text>
+      </g>
+      <g
+         id="g3786"
+         transform="translate(0,-0.90834583)">
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.67615"
+           y="106.23068"
+           id="text59553"><tspan
+             sodipodi:role="line"
+             id="tspan59551"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="138.67615"
+             y="106.23068">LinkedIn</tspan></text>
+        <a
+           id="a88729"
+           xlink:actuate=""
+           xlink:href="https://www.linkedin.com/in/joaquin-caballero/"
+           style="fill:#0000ff"
+           transform="translate(0,-9.5250003)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+             x="138.50922"
+             y="121.65883"
+             id="text59557"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+               x="138.50922"
+               y="121.65883"
+               id="tspan59555">linkedin.com/in/joaquin-caballero</tspan></text>
+        </a>
+      </g>
+      <g
+         id="g3793"
+         transform="translate(0,-0.52916667)">
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.67615"
+           y="120.71167"
+           id="text65597"><tspan
+             sodipodi:role="line"
+             id="tspan65595"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="138.67615"
+             y="120.71167">Github</tspan></text>
+        <a
+           id="a88560"
+           xlink:actuate=""
+           xlink:href="https://github.com/justcopypaste"
+           style="fill:#0000ff"
+           transform="translate(0,-12.170835)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+             x="138.50922"
+             y="138.93254"
+             id="text65601"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+               x="138.50922"
+               y="138.93254"
+               id="tspan65599">github.com/justcopypaste</tspan></text>
+        </a>
+      </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="138.67615"
-       y="115.60868"
-       id="text59553"><tspan
-         sodipodi:role="line"
-         id="tspan59551"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="138.67615"
-         y="115.60868">LinkedIn</tspan></text>
-    <a
-       id="a88729"
-       xlink:actuate=""
-       xlink:href="https://www.linkedin.com/in/joaquin-caballero/"
-       style="fill:#0000ff">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-         x="138.50922"
-         y="121.65883"
-         id="text59557"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-           x="138.50922"
-           y="121.65883"
-           id="tspan59555">linkedin.com/in/joaquin-caballero</tspan></text>
-    </a>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="138.67615"
-       y="132.88246"
-       id="text65597"><tspan
-         sodipodi:role="line"
-         id="tspan65595"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="138.67615"
-         y="132.88246">Github</tspan></text>
-    <a
-       id="a88560"
-       xlink:actuate=""
-       xlink:href="https://github.com/justcopypaste"
-       style="fill:#0000ff">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-         x="138.50922"
-         y="138.93254"
-         id="text65601"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-           x="138.50922"
-           y="138.93254"
-           id="tspan65599">github.com/justcopypaste</tspan></text>
-    </a>
     <g
-       id="g95234"
-       transform="translate(-1.0583337,99.391718)"
-       style="fill:#373d48;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.37222"
-         y="153.07857"
-         id="text95230"><tspan
-           sodipodi:role="line"
-           id="tspan95228"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+       id="g12343">
+      <g
+         id="g95234"
+         transform="translate(-1.0583337,98.862549)"
+         style="fill:#373d48;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.37222"
-           y="153.07857">Hobbies</tspan></text>
-      <path
-         style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 139.89993,155.338 h 65.61498"
-         id="path95232" />
+           y="153.07857"
+           id="text95230"><tspan
+             sodipodi:role="line"
+             id="tspan95228"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.37222"
+             y="153.07857">Hobbies</tspan></text>
+        <path
+           style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.89993,155.338 h 65.61498"
+           id="path95232" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+         x="138.50922"
+         y="262.44373"
+         id="text95238"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.50922"
+           y="262.44373"
+           id="tspan95236">Robotics</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+         x="138.50922"
+         y="271.61581"
+         id="text95242"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.50922"
+           y="271.61581"
+           id="tspan95240">Ethical Hacking</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+         x="138.50922"
+         y="280.77292"
+         id="text95246"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.50922"
+           y="280.77292"
+           id="tspan95244">Gaming</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+         x="138.50922"
+         y="289.93002"
+         id="text95250"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.50922"
+           y="289.93002"
+           id="tspan95248">Skateboarding</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="138.50922"
-       y="261.91455"
-       id="text95238"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="138.50922"
-         y="261.91455"
-         id="tspan95236">Robotica</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="138.50922"
-       y="270.55746"
-       id="text95242"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="138.50922"
-         y="270.55746"
-         id="tspan95240">Ethical Hacking</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="138.50922"
-       y="279.71457"
-       id="text95246"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="138.50922"
-         y="279.71457"
-         id="tspan95244">Gaming</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="138.50922"
-       y="288.87167"
-       id="text95250"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="138.50922"
-         y="288.87167"
-         id="tspan95248">Skateboarding</tspan></text>
     <g
-       id="g128669"
-       style="fill:#373d48;fill-opacity:1"
-       transform="translate(0,-6.3500003)">
+       id="g12320"
+       transform="translate(0,-0.71156623)">
       <g
          id="g95221"
-         transform="translate(-1.0583337,5.7127402)"
+         transform="translate(-1.0583337,14.708576)"
          style="fill:#373d48;fill-opacity:1">
         <text
            xml:space="preserve"
@@ -340,7 +355,7 @@
              id="tspan73738"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
              x="139.37222"
-             y="153.07857">Habilidades</tspan></text>
+             y="153.07857">Skills</tspan></text>
         <path
            style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 139.89993,155.338 h 65.61498"
@@ -350,78 +365,78 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="138.50922"
-         y="168.23567"
+         y="177.23138"
          id="text74936"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
-           y="168.23567"
+           y="177.23138"
            id="tspan74934">Flutter</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="138.50922"
-         y="177.18523"
+         y="184.59346"
          id="text89704"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
-           y="177.18523"
+           y="184.59346"
            id="tspan89702">Dart</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="138.50922"
-         y="186.11668"
+         y="191.93744"
          id="text89704-1"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
-           y="186.11668"
+           y="191.93744"
            id="tspan89702-2">Java</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="138.50922"
-         y="195.1825"
+         y="199.41577"
          id="text91169"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
-           y="195.1825"
+           y="199.41577"
            id="tspan91167">Android</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="138.50922"
-         y="204.00287"
+         y="206.64867"
          id="text91173"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
-           y="204.00287"
+           y="206.64867"
            id="tspan91171">SQL</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="138.50922"
-         y="212.60876"
+         y="213.66708"
          id="text91177"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
-           y="212.60876"
+           y="213.66708"
            id="tspan91175">Python</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="138.50922"
-         y="222.09315"
+         y="221.564"
          id="text124437"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
-           y="222.09315"
+           y="221.564"
            id="tspan124435">Arduino</tspan></text>
     </g>
     <g
@@ -437,7 +452,7 @@
            id="tspan18755"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="9.0778008"
-           y="93.268593">Historial Laboral</tspan></text>
+           y="93.268593">Work History</tspan></text>
       <path
          style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 9.927552,96.976085 H 128.37408"
@@ -447,17 +462,17 @@
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
        x="7.2817202"
-       y="119.26727"
+       y="121.38393"
        id="text158099"><tspan
          sodipodi:role="line"
          id="tspan158095"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.2817202"
-         y="119.26727">2019.10 -</tspan><tspan
+         y="121.38393">2019.10 -</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.2817202"
-         y="126.00414"
+         y="128.1208"
          id="tspan158097">2020.03</tspan></text>
     <g
        id="g180238"
@@ -488,7 +503,7 @@
            id="tspan150712"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="37.071552"
-           y="107.49792">Tecnico Electronico</tspan></text>
+           y="107.49792">Electronic Technician</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -504,40 +519,45 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="36.904621"
            y="118.87437"
-           id="tspan152550">Reparacion de TVs y aparatos electronicos</tspan></text>
+           id="tspan152550">Repair TVs, Speakers and other electronic </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="36.904621"
+           y="124.38652"
+           id="tspan9644">devices</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:5.99722px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
        x="34.425716"
-       y="119.66879"
+       y="121.78545"
        id="text158103"><tspan
          sodipodi:role="line"
          id="tspan158101"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="34.425716"
-         y="119.66879">Desarrollador de Aplicaciones</tspan></text>
+         y="121.78545">App Developer (Flutter)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
        x="34.258785"
-       y="125.53316"
+       y="127.64981"
        id="text158109"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="34.258785"
-         y="125.53316"
+         y="127.64981"
          id="tspan158105">Multicom. Montevideo</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="34.258785"
-         y="131.0453"
-         id="tspan158107">Desarrollo de una app para Android e iOS</tspan><tspan
+         y="133.16196"
+         id="tspan14174">Design, develop and deploy an Android </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="34.258785"
-         y="136.55746"
-         id="tspan165271">para el control de alarmas por SMS (Flutter)</tspan></text>
+         y="138.67412"
+         id="tspan14552">and iOS App for SMS controlled alarm systems</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -553,7 +573,7 @@
          id="tspan175515"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="6.9611349"
-         y="148.4126">Proyectos</tspan></text>
+         y="148.4126">Projects</tspan></text>
     <path
        style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 7.8108852,152.12 H 126.2574"
@@ -562,100 +582,106 @@
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
        x="7.2817187"
-       y="160.97249"
+       y="160.44333"
        id="text180244"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.2817187"
-         y="160.97249"
+         y="160.44333"
          id="tspan180242">2021</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.99722px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="24.371542"
-       y="161.37393"
+       x="23.842375"
+       y="160.84477"
        id="text180248"><tspan
          sodipodi:role="line"
          id="tspan180246"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.371542"
-         y="161.37393">Crablock</tspan></text>
+         x="23.842375"
+         y="160.84477">Crablock</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="24.733778"
-       y="167.23824"
+       x="24.204611"
+       y="166.70908"
        id="text180254"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.733778"
-         y="167.23824"
-         id="tspan180250">Proyecto final EMT Robotica y Telecomunicaciones</tspan><tspan
+         x="24.204611"
+         y="166.70908"
+         id="tspan180250">Final Poject for EMT Robotica y Telecomunicaciones</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.733778"
-         y="172.75038"
-         id="tspan180252">Sistema de control y registro de cerradura basado </tspan><tspan
+         x="24.204611"
+         y="172.22122"
+         id="tspan81585">Control &amp; Registry Arduino Based Lock (Crablock) is</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.733778"
-         y="178.26254"
-         id="tspan190477">en Arduino y utilizando tags RFID. Calificacion 12/12</tspan></text>
+         x="24.204611"
+         y="177.73338"
+         id="tspan102898">an RFID activated smart lock with access history</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+         x="24.204611"
+         y="183.24553"
+         id="tspan62445">and remote activation via web. Graded 12/12</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
        x="7.2817187"
-       y="187.95999"
+       y="191.13495"
        id="text193445"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.2817187"
-         y="187.95999"
+         y="191.13495"
          id="tspan193443">2019 -</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.2817187"
-         y="194.69687"
+         y="197.87183"
          id="tspan196663">2020</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.99722px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="24.900709"
-       y="188.36143"
+       x="24.371542"
+       y="191.53639"
        id="text193449"><tspan
          sodipodi:role="line"
          id="tspan193447"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.900709"
-         y="188.36143">Todo Bajo Control</tspan></text>
+         x="24.371542"
+         y="191.53639">Todo Bajo Control</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-       x="24.733778"
-       y="194.22574"
+       x="24.204611"
+       y="197.4007"
        id="text193457"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.733778"
-         y="194.22574"
-         id="tspan193451">Aplicacion para empresa Multicom</tspan><tspan
+         x="24.204611"
+         y="197.4007"
+         id="tspan193451">Application for the company Multicom</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.733778"
-         y="199.73788"
-         id="tspan204829">Aplicacion para Android e iOS para el control de </tspan><tspan
+         x="24.204611"
+         y="202.91284"
+         id="tspan2521">Android and iOS App to configure and control</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.733778"
-         y="205.25005"
-         id="tspan218665">sistemas de alarma GSM, Desarrollada en Flutter </tspan><tspan
+         x="24.204611"
+         y="208.425"
+         id="tspan95774">GSM alarm systems, developed in Flutter and </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="24.733778"
-         y="210.76219"
-         id="tspan2521">y publicada en Google Play y App Store</tspan></text>
+         x="24.204611"
+         y="213.93715"
+         id="tspan95776">published on Google Play and App Store</tspan></text>
     <g
-       id="g92033">
+       id="g92033"
+       transform="translate(0,1.0583333)">
       <text
          xml:space="preserve"
          style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -666,7 +692,7 @@
            id="tspan6669"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="6.9611349"
-           y="222.5918">Educacion</tspan></text>
+           y="222.5918">Education</tspan></text>
       <path
          style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 7.8108852,226.29908 H 126.2574"
@@ -714,7 +740,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="24.733776"
          y="268.83511"
-         id="tspan6693">Actualmente cursando materias pendientes</tspan></text>
+         id="tspan6693">Currently studying pending subjects</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -757,7 +783,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="24.733776"
          y="290.53061"
-         id="tspan6707">Incompleto</tspan></text>
+         id="tspan6707">Incomplete</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -784,7 +810,7 @@
          id="tspan976"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="24.37154"
-         y="235.7628">Backend con Node.js</tspan></text>
+         y="235.7628">Backend in Node.js</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -800,7 +826,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="24.733776"
          y="247.13925"
-         id="tspan982">Actualmente cursando</tspan></text>
+         id="tspan982">Currently studying</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -833,44 +859,94 @@
          y="71.426987"
          id="tspan52787">proyectos de principio a fin.</tspan></text>
     <g
-       id="g61505"
-       transform="translate(-1.0583337,76.50877)"
-       style="fill:#373d48;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
-         x="139.37222"
-         y="153.07857"
-         id="text61501"><tspan
-           sodipodi:role="line"
-           id="tspan61499"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+       id="g12329"
+       transform="translate(0,-0.43347711)">
+      <g
+         id="g61505"
+         transform="translate(-1.0583337,78.625438)"
+         style="fill:#373d48;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="139.37222"
-           y="153.07857">Certificaciones</tspan></text>
-      <path
-         style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 139.89993,155.338 h 65.61498"
-         id="path61503" />
-    </g>
-    <a
-       id="a88360"
-       xlink:actuate=""
-       xlink:href="https://github.com/justcopypaste/certificates/tree/main/Google_Python"
-       style="fill:#0000ff"
-       transform="translate(0,1.0583333)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-         x="138.50922"
-         y="237.97327"
-         id="text61509"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           y="153.07857"
+           id="text61501"><tspan
+             sodipodi:role="line"
+             id="tspan61499"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.37222"
+             y="153.07857">Certifications</tspan></text>
+        <path
+           style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.89993,155.338 h 65.61498"
+           id="path61503" />
+      </g>
+      <a
+         id="a88360"
+         xlink:actuate=""
+         xlink:href="https://github.com/justcopypaste/certificates/tree/main/Google_Python"
+         style="fill:#0000ff"
+         transform="translate(0,3.1750001)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
            y="237.97327"
-           id="tspan61507"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Google IT Automation with Python</tspan></text>
-    </a>
+           id="text61509"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+             x="138.50922"
+             y="237.97327"
+             id="tspan61507"
+             rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Google IT Automation with Python</tspan></text>
+      </a>
+    </g>
+    <g
+       id="g12266"
+       transform="translate(0,-2.5063747)">
+      <g
+         id="g3899"
+         transform="translate(-1.0583337,-13.337263)"
+         style="fill:#373d48;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="139.37222"
+           y="153.07857"
+           id="text3895"><tspan
+             sodipodi:role="line"
+             id="tspan3893"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+             x="139.37222"
+             y="153.07857">Languages</tspan></text>
+        <path
+           style="opacity:0.15;fill:#373d48;fill-opacity:1;stroke:#000000;stroke-width:0.298879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.89993,155.338 h 65.61498"
+           id="path3897" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+         x="138.50922"
+         y="149.18593"
+         id="text3903"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.50922"
+           y="149.18593"
+           id="tspan3901">Spanish (Native)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+         x="138.50922"
+         y="158.13548"
+         id="text3907"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
+           x="138.50922"
+           y="158.13548"
+           id="tspan3905">English (Conversational)</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
