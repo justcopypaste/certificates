@@ -27,8 +27,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.63663412"
-     inkscape:cx="339.28436"
-     inkscape:cy="591.39149"
+     inkscape:cx="338.49898"
+     inkscape:cy="558.40551"
      inkscape:window-width="1680"
      inkscape:window-height="987"
      inkscape:window-x="1912"
@@ -95,7 +95,7 @@
          id="tspan27605"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
          x="7.2817211"
-         y="27.977648">Desarrollador de Software</tspan></text>
+         y="27.977648">Software Developer</tspan></text>
     <g
        id="g12300">
       <g
@@ -415,7 +415,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
            y="206.64867"
-           id="tspan91171">SQL</tspan></text>
+           id="tspan91171">Python</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -426,7 +426,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
            y="213.66708"
-           id="tspan91175">Python</tspan></text>
+           id="tspan91175">Linux</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
@@ -437,7 +437,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="138.50922"
            y="221.564"
-           id="tspan124435">Arduino</tspan></text>
+           id="tspan124435">Bash/Shell Script</tspan></text>
     </g>
     <g
        id="g8057"
@@ -519,7 +519,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="36.904621"
            y="118.87437"
-           id="tspan152550">Repair TVs, Speakers and other electronic </tspan><tspan
+           id="tspan152550">Repair TVs, speakers and other electronic </tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
            x="36.904621"
@@ -620,7 +620,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="24.204611"
          y="177.73338"
-         id="tspan102898">an RFID activated smart lock with access history</tspan><tspan
+         id="tspan102898">a RFID activated smart lock with access history</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40972px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="24.204611"
@@ -834,30 +834,30 @@
        y="46.276005"
        id="text18851"><tspan
          sodipodi:role="line"
-         id="tspan18849"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.288641"
-         y="46.276005">Soy una persona apasionada por la informatica que </tspan><tspan
+         y="46.276005"
+         id="tspan11668">I am a passionate developer who enjoys learning </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.288641"
          y="52.563751"
-         id="tspan24167">disfruta aprender sobre nuevas tecnologias y busca </tspan><tspan
+         id="tspan14720">about new technologies and seek self-growth every</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.288641"
          y="58.851494"
-         id="tspan30967">superarse dia a dia, cuento con experiencia en el </tspan><tspan
+         id="tspan11674">day, I have experience in  designing, developing </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.288641"
          y="65.139244"
-         id="tspan36855">diseño, desarrollo y produccion de aplicaciones y </tspan><tspan
+         id="tspan25376">and deploying of applications and projects from </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#373d48;fill-opacity:1;stroke-width:0.264583"
          x="7.288641"
          y="71.426987"
-         id="tspan52787">proyectos de principio a fin.</tspan></text>
+         id="tspan15980">start to finish.</tspan></text>
     <g
        id="g12329"
        transform="translate(0,-0.43347711)">
